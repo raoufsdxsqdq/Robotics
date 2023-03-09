@@ -3,7 +3,7 @@ This course is special for taching children about arduino and its deffrent compe
 
 you find in this course:
 
-  1- basics about electronics and electrical circuits
+  1- basics about electronics and electrical circuits\n
   2- basics about the arduino bord digital and analog signals
   3- PWM pulse width modulation 
   4- how to implement the LDR and potensiometer in simple projects
